@@ -1,0 +1,19 @@
+{
+  "name": "sochem",
+  "version": "1.0.0",
+  "description": "It is an official website of sochem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansh2698/Sochem_website.git"
+  },
+  "author": "Ansh,Arjun,Aniruudha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ansh2698/Sochem_website/issues"
+  },
+  "homepage": "https://github.com/Ansh2698/Sochem_website#readme"
+}

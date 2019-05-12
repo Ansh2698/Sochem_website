@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/Ansh2698/Sochem_website/issues"
   },
-  "homepage": "https://github.com/Ansh2698/Sochem_website#readme"
+  "homepage": "https://github.com/Ansh2698/Sochem_website#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.4",
+    "dependable": "^1.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-promise-router": "^3.0.3",
+    "express-session": "^1.16.1",
+    "express-validator": "^5.3.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.7",
+    "passport": "^0.4.0"
+  }
 }

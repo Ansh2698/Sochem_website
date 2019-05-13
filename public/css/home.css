@@ -1,0 +1,11 @@
+.navbar a{
+  color:white;
+  }
+  .nav > li:not(:last-child) {
+    border-right: 1px solid white; 
+    box-sizing: border-box;
+}
+.navbar-header > a{
+    border-right: 1px solid white; 
+    box-sizing: border-box;
+}

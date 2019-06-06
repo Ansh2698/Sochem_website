@@ -5,6 +5,7 @@ var container=dependable.container();
 var MyModule=[
     ["_","lodash"],
     ["passport","passport"],
+    ["User","../model/signup"]
 ];
 MyModule.forEach(function(val){
     container.register(val[0],function(){
